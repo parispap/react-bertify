@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/react-bertify/static/css/main.0b5c4bfe.chunk.css",
+    "main.js": "/react-bertify/static/js/main.c5058eaa.chunk.js",
+    "main.js.map": "/react-bertify/static/js/main.c5058eaa.chunk.js.map",
+    "runtime-main.js": "/react-bertify/static/js/runtime-main.1ae9d080.js",
+    "runtime-main.js.map": "/react-bertify/static/js/runtime-main.1ae9d080.js.map",
+    "static/js/2.ae5daeae.chunk.js": "/react-bertify/static/js/2.ae5daeae.chunk.js",
+    "static/js/2.ae5daeae.chunk.js.map": "/react-bertify/static/js/2.ae5daeae.chunk.js.map",
+    "index.html": "/react-bertify/index.html",
+    "precache-manifest.e535406efbc3d0b4e22fedab670e89bb.js": "/react-bertify/precache-manifest.e535406efbc3d0b4e22fedab670e89bb.js",
+    "service-worker.js": "/react-bertify/service-worker.js",
+    "static/css/main.0b5c4bfe.chunk.css.map": "/react-bertify/static/css/main.0b5c4bfe.chunk.css.map",
+    "static/js/2.ae5daeae.chunk.js.LICENSE.txt": "/react-bertify/static/js/2.ae5daeae.chunk.js.LICENSE.txt",
+    "static/media/Cocoa_Fruit.png": "/react-bertify/static/media/Cocoa_Fruit.7f3ab5fd.png",
+    "static/media/Statistics.webp": "/react-bertify/static/media/Statistics.8ee80aa5.webp",
+    "static/media/left_cocoa_beans.png": "/react-bertify/static/media/left_cocoa_beans.91f7effe.png",
+    "static/media/protein_powder.png": "/react-bertify/static/media/protein_powder.15ab1905.png",
+    "static/media/right_cocoa_beans.png": "/react-bertify/static/media/right_cocoa_beans.96c77482.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1ae9d080.js",
+    "static/js/2.ae5daeae.chunk.js",
+    "static/css/main.0b5c4bfe.chunk.css",
+    "static/js/main.c5058eaa.chunk.js"
+  ]
+}
